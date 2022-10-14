@@ -5,6 +5,14 @@ com o objetivo de colaborar para o desenvolvimento de um sistema de vigilância 
 epidemias e pandemias, como a do novo coronavírus (SARS-CoV-2). 
 O ITpS quer articular redes para a obtenção de informações científicas relevantes que ajudem o país na tomada de decisões de saúde pública.
 
+[Twitter](https://www.twitter.com/todospelasaude)
+
+[Facebook](https://www.facebook.com/todospelasaude)
+
+[Instagram](https://www.instagram.com/todospelasaude)
+
+[Linkedin](https://br.linkedin.com/company/instituto-todos-pela-sa%C3%BAde-itps)
+
 ## **MISSÃO**
 Articular redes e competências para o enfrentamento de emergências sanitárias no Brasil.
 
